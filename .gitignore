@@ -1,0 +1,5 @@
+# Node.js build artifacts
+node_modules/
+
+# OS-specific files
+.DS_Store
